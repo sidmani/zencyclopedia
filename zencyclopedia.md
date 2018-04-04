@@ -65,17 +65,30 @@ Sid Mani
 
 License
 ================================================================================
-The Zencyclopedia is released under the terms of the CC BY-NC-SA 4.0 license.
+The Zencyclopedia is released under the terms of the
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+license.
 
 Contributing Guidelines
 ================================================================================
-Contributions are handled via pull requests to the github repository.
-* Maintain a neutral and encyclopedic tone.
-* Do not link to content that violates United States law.
-* Use permalinks when possible.
-* All linked content must be free for unlimited personal use.
-* Match existing formatting, with entries nested no more than 2 levels.
-* Order resources by increasing minimum skill level.
-* Do not include opinions on the quality of the resource in the description.
+Contributions are handled via pull requests to the
+[Github repository](https://github.com/sidmani/zencyclopedia).  
 
---------------------------------------------------------------------------------
+* Maintain a neutral and encyclopedic tone.  
+* Do not link to content that violates United States law.  
+* Use permalinks when possible.  
+* All linked content must be free for unlimited personal use.  
+* Match existing formatting, with entries nested no more than 2 levels.  
+* Order resources by increasing minimum skill level.  
+* Do not include opinions on the quality of the resource in the description.  
+
+Here's the format for an example entry:
+``` none
+Main Category
+================================================================================
+  Subcategory
+  ------------------------------------------------------------------------------
+
+  **[Title](URL)**  (append double whitespace for newline)
+  Description...
+```
