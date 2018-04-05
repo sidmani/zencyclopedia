@@ -66,10 +66,48 @@ Sid Mani
 Contributing
 ================================================================================
 Contributions are handled via pull requests to the
-[Github repository](https://github.com/sidmani/zencyclopedia).  
+[Github repository](https://github.com/sidmani/zencyclopedia).
 
 License
 ================================================================================
 The Zencyclopedia is released under the terms of the
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 license.
+
+Computer Science
+================================================================================
+
+  Fundamentals
+  ------------------------------------------------------------------------------
+  **[Nand2Tetris](http://www.nand2tetris.org/)**  
+  "A course and a textbook that guides students and self-learners through the 
+  construction of a modern, full-scale computer system - hardware and software -
+   from the ground up."
+  
+Foreign Language  
+================================================================================
+
+  Japanese
+  ------------------------------------------------------------------------------
+  **[Tae Kim's Guide to Japanese 
+  Grammar](http://www.guidetojapanese.org/learn/grammar)**  
+  "A resource for those who want to learn Japanese grammar in a rational, 
+  intuitive way that makes sense in Japanese. The explanations are focused on 
+  how to make sense of the grammar not from English but from a Japanese point of 
+  view."
+
+  **[An Introduction to Japanese Syntax, Grammar, and
+  Language](https://pomax.github.io/nrGrammar/)**  
+  "This book explains Japanese the way one may find it taught at universities,
+  covering everything from basic to intermediary Japanese, and even touching on
+  some of the more advanced constructions."
+
+  **[Imabi](http://imabi.net)**  
+  A set of in-depth Japanese lessons spanning introductory to advanced 
+  concepts.
+
+  Korean
+  ------------------------------------------------------------------------------
+  **[Talk To Me In Korean](http://http://talktomeinkorean.com/)**  
+  Lessons, videos, and podcasts for learners of any level.
+  
