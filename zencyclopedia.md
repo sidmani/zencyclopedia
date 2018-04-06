@@ -93,6 +93,12 @@ Art
   bite-sized video covers a different concept, allowing you to learn complex 
   subjects in manageable increments."
 
+  Photography
+  ------------------------------------------------------------------------------
+  **[The Bastards Book of Photography](http://photography.bastardsbook.com/)**  
+  "Learn how to move past depending on your camera’s automatic mode and onto 
+  operating its manual settings."
+
 Computer Science
 ================================================================================
 
@@ -115,6 +121,20 @@ Computer Science
 
   **[OpenVim](http://www.openvim.com/)**  
   An interactive Vim tutorial that covers basic modes and shortcuts.
+
+  Unix and Linux
+  ------------------------------------------------------------------------------
+  **[Linux Journey](https://linuxjourney.com/)**  
+  A guide to Linux, starting with terms and definitions and progressing through 
+  various topics such as processes, the filesystem, and networking.
+
+  **[Ten Steps to Linux 
+  Survival](http://dullroar.com/book/TenStepsToLinuxSurvival.html)**  
+  A guide to Bash in the context of Linux, covering the operation of the shell, 
+  useful commands, and some history.
+
+  **[linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)**  
+  A book about the workings of the Linux kernel.
 
   The Internet
   ------------------------------------------------------------------------------
