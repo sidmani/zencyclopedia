@@ -87,8 +87,8 @@ Computer Science
   The Command Line
   ------------------------------------------------------------------------------
   **[RegexOne](https://regexone.com/)**  
-  An interactive introduction to Regular Expressions (RegEx).  
-  
+  An interactive introduction to Regular Expressions (RegEx).
+
   **[OpenVim](http://www.openvim.com/)**  
   An interactive Vim tutorial that covers basic modes and shortcuts.
 
@@ -104,11 +104,11 @@ Computer Science
   Version Control Systems
   ------------------------------------------------------------------------------
   **[Try Git](https://try.github.io/levels/1/challenges/1)**  
-  A short, interactive tutorial explaining the basics of Git.  
-  
+  A short, interactive tutorial explaining the basics of Git.
+
   **[Learn Git Branching](https://learngitbranching.js.org/)**  
   An interactive tutorial on Git, covering various basic commands through more
-  advanced topics such as rebasing, remotes, and branches.  
+  advanced topics such as rebasing, remotes, and branches.
 
   **[Pro Git](https://git-scm.com/book/en/v2)**  
   An extremely thorough dissection of Git, covering installation through 
@@ -118,23 +118,23 @@ Computer Science
   ------------------------------------------------------------------------------
   **[Eloquent Javascript](http://eloquentjavascript.net/)**  
   An online book that introduces the principles of programming through 
-  Javascript.  
-  
+  Javascript.
+
   **[The Modern Javascript Tutorial](http://javascript.info/)**  
-  A thorough guide to the Javascript language.  
-  
+  A thorough guide to the Javascript language.
+
   **[Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**  
   "A growing collection of documentation about the most quirky parts of the 
   JavaScript programming language. It gives advice to avoid common mistakes and 
   subtle bugs, as well as performance issues and bad practices, that non-expert 
   JavaScript programmers may encounter on their endeavours into the depths of 
-  the language."  
-  
+  the language."
+
   **[Learn You A Haskell](http://learnyouahaskell.com/)**  
   A tutorial for the Haskell language aimed at those with some prior programming
-  experience.  
-  
-  **[Learn You Some Erlang](Learn You Some Erlang)**  
+  experience.
+
+  **[Learn You Some Erlang](http://learnyousomeerlang.com/)**  
   "A way to learn Erlang for people who have basic knowledge of programming in 
   imperative languages (such as C/C++, Java, Python, Ruby, etc) and may or may 
   not know functional programming."
