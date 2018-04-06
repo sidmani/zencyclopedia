@@ -83,15 +83,17 @@ Computer Science
   "A course and a textbook that guides students and self-learners through the 
   construction of a modern, full-scale computer system - hardware and software -
    from the ground up."
-   
+
   The Command Line
   ------------------------------------------------------------------------------
   **[RegexOne](https://regexone.com/)**  
-  An interactive introduction to Regular Expressions (RegEx).
+  An interactive introduction to Regular Expressions (RegEx).  
+  
+  **[OpenVim](http://www.openvim.com/)**  
+  An interactive Vim tutorial that covers basic modes and shortcuts.
 
   The Internet
   ------------------------------------------------------------------------------
-
   **[Hello DNS](https://powerdns.org/hello-dns/)**  
   "This series of documents attempts to provide a correct introduction to the 
   Domain Name System as of 2018. The original RFCs remain the authoritative 
@@ -107,6 +109,10 @@ Computer Science
   **[Learn Git Branching](https://learngitbranching.js.org/)**  
   An interactive tutorial on Git, covering various basic commands through more
   advanced topics such as rebasing, remotes, and branches.  
+
+  **[Pro Git](https://git-scm.com/book/en/v2)**  
+  An extremely thorough dissection of Git, covering installation through 
+  advanced usage, GitHub integration, and associated protocols and workflows.
 
   Languages
   ------------------------------------------------------------------------------
@@ -126,9 +132,14 @@ Computer Science
   
   **[Learn You A Haskell](http://learnyouahaskell.com/)**  
   A tutorial for the Haskell language aimed at those with some prior programming
-  experience.
+  experience.  
   
-Foreign Language  
+  **[Learn You Some Erlang](Learn You Some Erlang)**  
+  "A way to learn Erlang for people who have basic knowledge of programming in 
+  imperative languages (such as C/C++, Java, Python, Ruby, etc) and may or may 
+  not know functional programming."
+
+Foreign Language
 ================================================================================
 
   Japanese
