@@ -74,6 +74,25 @@ The Zencyclopedia is released under the terms of the
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 license.
 
+Art
+================================================================================
+  Color
+  ------------------------------------------------------------------------------
+  **[PurpleKecleon's Introduction to Color 
+  Theory](http://stuff.veekun.com/pkcolor/)**  
+  An introduction to the fundamentals of color theory, using Pokémon.
+
+  Drawing and Painting
+  ------------------------------------------------------------------------------
+  **[Draw A Box](https://drawabox.com/)**  
+  A set of drawing lessons that begins with simple boxes and progresses to more 
+  complex objects such as vehicles, animals, and other everyday objects.
+
+  **[Ctrl+Paint](https://www.ctrlpaint.com/)**  
+  "A free learning resource dedicated to the basics of digital painting. Each 
+  bite-sized video covers a different concept, allowing you to learn complex 
+  subjects in manageable increments."
+
 Computer Science
 ================================================================================
 
@@ -86,6 +105,11 @@ Computer Science
 
   The Command Line
   ------------------------------------------------------------------------------
+  **[Learn Enough Command Line to Be 
+  Dangerous](https://www.learnenough.com/command-line-tutorial)**  
+  "An introduction to the command line for complete beginners." Assumes almost
+  no prior experience with either the command line or programming.
+
   **[RegexOne](https://regexone.com/)**  
   An interactive introduction to Regular Expressions (RegEx).
 
