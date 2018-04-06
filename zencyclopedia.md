@@ -83,6 +83,50 @@ Computer Science
   "A course and a textbook that guides students and self-learners through the 
   construction of a modern, full-scale computer system - hardware and software -
    from the ground up."
+   
+  The Command Line
+  ------------------------------------------------------------------------------
+  **[RegexOne](https://regexone.com/)**  
+  An interactive introduction to Regular Expressions (RegEx).
+
+  The Internet
+  ------------------------------------------------------------------------------
+
+  **[Hello DNS](https://powerdns.org/hello-dns/)**  
+  "This series of documents attempts to provide a correct introduction to the 
+  Domain Name System as of 2018. The original RFCs remain the authoritative 
+  source of normative text, but this document tries to make this venerable 
+  protocol more accessible, while maintaining full alignment with all relevant 
+  and useful RFCs."
+
+  Version Control Systems
+  ------------------------------------------------------------------------------
+  **[Try Git](https://try.github.io/levels/1/challenges/1)**  
+  A short, interactive tutorial explaining the basics of Git.  
+  
+  **[Learn Git Branching](https://learngitbranching.js.org/)**  
+  An interactive tutorial on Git, covering various basic commands through more
+  advanced topics such as rebasing, remotes, and branches.  
+
+  Languages
+  ------------------------------------------------------------------------------
+  **[Eloquent Javascript](http://eloquentjavascript.net/)**  
+  An online book that introduces the principles of programming through 
+  Javascript.  
+  
+  **[The Modern Javascript Tutorial](http://javascript.info/)**  
+  A thorough guide to the Javascript language.  
+  
+  **[Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**  
+  "A growing collection of documentation about the most quirky parts of the 
+  JavaScript programming language. It gives advice to avoid common mistakes and 
+  subtle bugs, as well as performance issues and bad practices, that non-expert 
+  JavaScript programmers may encounter on their endeavours into the depths of 
+  the language."  
+  
+  **[Learn You A Haskell](http://learnyouahaskell.com/)**  
+  A tutorial for the Haskell language aimed at those with some prior programming
+  experience.
   
 Foreign Language  
 ================================================================================
