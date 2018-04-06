@@ -16,6 +16,7 @@ Contributions are handled via pull requests against the `edit` branch. Please fo
 * Do not link to content that violates United States law.  
 * Use permalinks when possible.  
 * All linked content must be free for unlimited personal use.  
+* Strictly no links to Coursera, Udemy, etc. Prefer open-source/not-for-profit alternatives.  
 * Match existing formatting, with entries nested no more than 2 levels.  
 * Order resources by increasing minimum skill level.  
 * Do not include opinions on the quality of the resource in the description.  
@@ -32,6 +33,9 @@ Main Category
   Description...
 ```
 If you want to create a new category or reorganize an existing category, [open an issue](https://github.com/sidmani/zencyclopedia/issues) first.
+
+Please note that all resources will be reviewed for quality; we want to keep the
+document as concise as possible. 
 
 Once again, make sure your pull requests are against the `edit` branch, not `master`. Thank you and happy contributing!  
 
