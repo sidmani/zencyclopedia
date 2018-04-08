@@ -99,25 +99,35 @@ Art
   "Learn how to move past depending on your camera’s automatic mode and onto 
   operating its manual settings."
 
-Computer Science
+Computers and Electronics
 ================================================================================
+  Electricity and Circuits
+  ------------------------------------------------------------------------------
+  **[Concise Electronics for Geeks](http://lcamtuf.coredump.cx/electronics/)**  
+  "An anatomically correct insight into the underlying physical phenomena needed
+  to accurately understand the behavior of semiconductors, capacitors, or
+  inductors - but far more readable and way shorter than a typical academic 
+  textbook."
 
-  Fundamentals
+  **[All About Circuits](https://www.allaboutcircuits.com/textbook/)**  
+  A series of books covering the basics of electricity through semiconductors 
+  and digital logic.
+
+  Computer Hardware
   ------------------------------------------------------------------------------
   **[Nand2Tetris](http://www.nand2tetris.org/)**  
   "A course and a textbook that guides students and self-learners through the 
   construction of a modern, full-scale computer system - hardware and software -
    from the ground up."
 
+  **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)**  
+  Learn to build a programmable 8-bit computer from logic gates.
+
   The Command Line
   ------------------------------------------------------------------------------
   **[Learn Enough Command Line to Be 
   Dangerous](https://www.learnenough.com/command-line-tutorial)**  
-  "An introduction to the command line for complete beginners." Assumes almost
-  no prior experience with either the command line or programming.
-
-  **[RegexOne](https://regexone.com/)**  
-  An interactive introduction to Regular Expressions (RegEx).
+  "An introduction to the command line for complete beginners."
 
   **[OpenVim](http://www.openvim.com/)**  
   An interactive Vim tutorial that covers basic modes and shortcuts.
@@ -145,21 +155,31 @@ Computer Science
   protocol more accessible, while maintaining full alignment with all relevant 
   and useful RFCs."
 
-  Version Control Systems
-  ------------------------------------------------------------------------------
-  **[Try Git](https://try.github.io/levels/1/challenges/1)**  
-  A short, interactive tutorial explaining the basics of Git.
+  **[Learn CSS Layout](http://book.mixu.net/css/)**  
+  "A set of chapters about CSS layout for people who already know CSS."
 
+  Software Development Tools
+  ------------------------------------------------------------------------------
   **[Learn Git Branching](https://learngitbranching.js.org/)**  
   An interactive tutorial on Git, covering various basic commands through more
   advanced topics such as rebasing, remotes, and branches.
 
-  **[Pro Git](https://git-scm.com/book/en/v2)**  
-  An extremely thorough dissection of Git, covering installation through 
-  advanced usage, GitHub integration, and associated protocols and workflows.
+  **[Git in the Trenches](http://cbx33.github.io/gitt/intro.html)**  
+  "A book designed to help you both apply and understand the subtleties of Git."
 
-  Languages
+  **[Think Like (a) Git](http://think-like-a-git.net/changelog.html)**  
+  "A simple strategy for safely experimenting with some of the features that 
+  make Git so insanely, awesomely useful. You should know how to create a 
+  repository, add and commit files to it, and you should probably have some idea
+  of why you might want to use a branch."
+
+  Programming Languages
   ------------------------------------------------------------------------------
+  **[Learn You Some Erlang](http://learnyousomeerlang.com/)**  
+  "A way to learn Erlang for people who have basic knowledge of programming in 
+  imperative languages (such as C/C++, Java, Python, Ruby, etc) and may or may 
+  not know functional programming."
+
   **[Eloquent Javascript](http://eloquentjavascript.net/)**  
   An online book that introduces the principles of programming through 
   Javascript.
@@ -178,10 +198,8 @@ Computer Science
   A tutorial for the Haskell language aimed at those with some prior programming
   experience.
 
-  **[Learn You Some Erlang](http://learnyousomeerlang.com/)**  
-  "A way to learn Erlang for people who have basic knowledge of programming in 
-  imperative languages (such as C/C++, Java, Python, Ruby, etc) and may or may 
-  not know functional programming."
+  **[RegexOne](https://regexone.com/)**  
+  An interactive introduction to Regular Expressions (RegEx).
 
 Foreign Language
 ================================================================================
