@@ -132,6 +132,9 @@ Computers and Electronics
   **[OpenVim](http://www.openvim.com/)**  
   An interactive Vim tutorial that covers basic modes and shortcuts.
 
+  **[RegexOne](https://regexone.com/)**  
+  An interactive introduction to Regular Expressions (RegEx).
+
   Unix and Linux
   ------------------------------------------------------------------------------
   **[Linux Journey](https://linuxjourney.com/)**  
@@ -160,9 +163,10 @@ Computers and Electronics
 
   Software Development Tools
   ------------------------------------------------------------------------------
-  **[Learn Git Branching](https://learngitbranching.js.org/)**  
-  An interactive tutorial on Git, covering various basic commands through more
-  advanced topics such as rebasing, remotes, and branches.
+  **[Learn Enough Git to be 
+  Dangerous](https://www.learnenough.com/git-tutorial)**  
+  A Git tutorial for those who are complete beginners to the concept of version 
+  control. 
 
   **[Git in the Trenches](http://cbx33.github.io/gitt/intro.html)**  
   "A book designed to help you both apply and understand the subtleties of Git."
@@ -180,6 +184,14 @@ Computers and Electronics
   imperative languages (such as C/C++, Java, Python, Ruby, etc) and may or may 
   not know functional programming."
 
+  ---
+
+  **[Learn You A Haskell](http://learnyouahaskell.com/)**  
+  A tutorial for the Haskell language aimed at those with some prior programming
+  experience.
+
+  ---
+
   **[Eloquent Javascript](http://eloquentjavascript.net/)**  
   An online book that introduces the principles of programming through 
   Javascript.
@@ -194,12 +206,12 @@ Computers and Electronics
   JavaScript programmers may encounter on their endeavours into the depths of 
   the language."
 
-  **[Learn You A Haskell](http://learnyouahaskell.com/)**  
-  A tutorial for the Haskell language aimed at those with some prior programming
-  experience.
+  ---
 
-  **[RegexOne](https://regexone.com/)**  
-  An interactive introduction to Regular Expressions (RegEx).
+  **[Automate the Boring Stuff with 
+  Python](http://automatetheboringstuff.com/)**  
+  "Learn how to use Python to write programs that do in minutes what would take 
+  you hours to do by hand - no prior programming experience required."
 
 Foreign Language
 ================================================================================
