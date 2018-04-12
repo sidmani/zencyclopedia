@@ -36,7 +36,7 @@
   /____|_____|_| \_|\____| |_| \____|_____\___/|_|   |_____|____/___/_/   \_\
  /_______________________________Version 0.0.4_______________________________\
 ```
-Introduction
+Introduction <introduction>
 ================================================================================
 In my time on the Internet, I've come across several instructional websites that
 are extremely straightforward in their presentation of material, and often
@@ -63,45 +63,45 @@ be corrected.
 Sid Mani  
 <admin@zencyclopedia.org>
 
-Contributing
+Contributing <contributing>
 ================================================================================
 Contributions are handled via pull requests to the
 [Github repository](https://github.com/sidmani/zencyclopedia).
 
-License
+License <license>
 ================================================================================
 The Zencyclopedia is released under the terms of the
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 license.
 
-Art
+Art <art>
 ================================================================================
-  Color
+  Color <color>
   ------------------------------------------------------------------------------
   **[PurpleKecleon's Introduction to Color 
   Theory](http://stuff.veekun.com/pkcolor/)**  
   An introduction to the fundamentals of color theory, using Pokémon.
 
-  Drawing and Painting
+  Drawing and Painting <drawing-painting>
   ------------------------------------------------------------------------------
   **[Draw A Box](https://drawabox.com/)**  
   A set of drawing lessons that begins with simple boxes and progresses to more 
   complex objects such as vehicles, animals, and other everyday objects.
 
-  **[Ctrl+Paint](https://www.ctrlpaint.com/)**  
+  **[Ctrl+Paint](https://www.ctrlpaint.com/)** `video`  
   "A free learning resource dedicated to the basics of digital painting. Each 
   bite-sized video covers a different concept, allowing you to learn complex 
   subjects in manageable increments."
 
-  Photography
+  Photography <photography>
   ------------------------------------------------------------------------------
   **[The Bastards Book of Photography](http://photography.bastardsbook.com/)**  
   "Learn how to move past depending on your camera’s automatic mode and onto 
   operating its manual settings."
 
-Computers and Electronics
+Computers and Electronics <computers-electronics>
 ================================================================================
-  Electricity and Circuits
+  Electricity and Circuits <electricity-circuits>
   ------------------------------------------------------------------------------
   **[Concise Electronics for Geeks](http://lcamtuf.coredump.cx/electronics/)**  
   "An anatomically correct insight into the underlying physical phenomena needed
@@ -113,29 +113,36 @@ Computers and Electronics
   A series of books covering the basics of electricity through semiconductors 
   and digital logic.
 
-  Computer Hardware
+  Computer Hardware <computer-hardware>
   ------------------------------------------------------------------------------
   **[Nand2Tetris](http://www.nand2tetris.org/)**  
   "A course and a textbook that guides students and self-learners through the 
   construction of a modern, full-scale computer system - hardware and software -
    from the ground up."
 
-  **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)**  
+  **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)** `video`  
   Learn to build a programmable 8-bit computer from logic gates.
 
-  The Command Line
+  Algorithms and Data Structures <algorithms-data-structures>
+  ------------------------------------------------------------------------------
+  **[AlgoXY](https://github.com/liuxinyu95/AlgoXY)**  
+  "An open book about elementary algorithms and data structures. This book 
+  doesn't only focus on an imperative (or procedural) approach, but also 
+  includes purely functional algorithms and data structures."
+
+  The Command Line <command-line>
   ------------------------------------------------------------------------------
   **[Learn Enough Command Line to Be 
   Dangerous](https://www.learnenough.com/command-line-tutorial)**  
   "An introduction to the command line for complete beginners."
 
-  **[OpenVim](http://www.openvim.com/)**  
+  **[OpenVim](http://www.openvim.com/)** `interactive`  
   An interactive Vim tutorial that covers basic modes and shortcuts.
 
-  **[RegexOne](https://regexone.com/)**  
+  **[RegexOne](https://regexone.com/)** `interactive`  
   An interactive introduction to Regular Expressions (RegEx).
 
-  Unix and Linux
+  Unix and Linux <unix-linux>
   ------------------------------------------------------------------------------
   **[Linux Journey](https://linuxjourney.com/)**  
   A guide to Linux, starting with terms and definitions and progressing through 
@@ -149,7 +156,7 @@ Computers and Electronics
   **[linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)**  
   A book about the workings of the Linux kernel.
 
-  The Internet
+  The Internet <internet>
   ------------------------------------------------------------------------------
   **[Hello DNS](https://powerdns.org/hello-dns/)**  
   "This series of documents attempts to provide a correct introduction to the 
@@ -161,7 +168,7 @@ Computers and Electronics
   **[Learn CSS Layout](http://book.mixu.net/css/)**  
   "A set of chapters about CSS layout for people who already know CSS."
 
-  Software Development Tools
+  Software Development <software-dev>
   ------------------------------------------------------------------------------
   **[Learn Enough Git to be 
   Dangerous](https://www.learnenough.com/git-tutorial)**  
@@ -177,7 +184,7 @@ Computers and Electronics
   repository, add and commit files to it, and you should probably have some idea
   of why you might want to use a branch."
 
-  Programming Languages
+  Programming Languages <programming-lang>
   ------------------------------------------------------------------------------
   **[Learn You Some Erlang](http://learnyousomeerlang.com/)**  
   "A way to learn Erlang for people who have basic knowledge of programming in 
@@ -213,10 +220,10 @@ Computers and Electronics
   "Learn how to use Python to write programs that do in minutes what would take 
   you hours to do by hand - no prior programming experience required."
 
-Foreign Language
+Foreign Language <foreign-lang>
 ================================================================================
 
-  Japanese
+  Japanese <japanese>
   ------------------------------------------------------------------------------
   **[Tae Kim's Guide to Japanese 
   Grammar](http://www.guidetojapanese.org/learn/grammar)**  
@@ -235,8 +242,57 @@ Foreign Language
   A set of in-depth Japanese lessons spanning introductory to advanced 
   concepts.
 
-  Korean
+  Korean <korean>
   ------------------------------------------------------------------------------
   **[Talk To Me In Korean](http://http://talktomeinkorean.com/)**  
   Lessons, videos, and podcasts for learners of any level.
-  
+
+Math <math>
+================================================================================
+
+  Algebra <algebra>
+  ------------------------------------------------------------------------------
+  **[Pre-algebra (OpenStax)](https://openstax.org/details/books/prealgebra)**  
+  "Introduces the fundamental concepts of algebra while addressing the needs of 
+  students with diverse backgrounds and learning styles."
+
+  **[Beginning and Intermediate 
+  Algebra](http://www.wallace.ccfaculty.org/book/book.html)**  
+  A standard introduction to algebra, beginning with a review of pre-algebra.
+
+  **[College Algebra 
+  (OpenStax)](https://openstax.org/details/books/college-algebra)**  
+  "A comprehensive exploration of algebraic principles; meets scope and sequence
+   requirements for a typical introductory algebra course."
+
+  Geometry and Trigonometry <geo-trig>
+  ------------------------------------------------------------------------------
+  **[Dave's Short Trig Course](http://www2.clarku.edu/~djoyce/trig/)**  
+  An introduction to trigonometry that assumes knowledge of algebra and 
+  geometry.
+
+  **[Trigonometry](http://www.mecmath.net/trig/index.html)**  
+  "A text on elementary trigonometry, designed for students who have completed 
+  courses in high-school algebra and geometry."
+
+  **[Euclid's Elements Redux](http://starrhorse.com/euclid/)**  
+  "An open textbook on mathematical logic and geometry based on Euclid's 
+  'Elements'."
+
+  **[Pre-calculus 
+  (OpenStax)](https://openstax.org/details/books/precalculus)**  
+  "A comprehensive text that covers more ground than a typical one- or 
+  two-semester college-level precalculus course."
+
+Physics <physics>
+================================================================================
+
+  Overview <physics-overview>
+  ------------------------------------------------------------------------------
+  **[How to become a GOOD Theoretical
+  Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)**  
+  A guide to learning physics from the ground up by Nobel laureate Gerard 't 
+  Hooft.
+
+
+
