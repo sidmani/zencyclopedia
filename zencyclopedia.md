@@ -88,10 +88,11 @@ Art <art>
   A set of drawing lessons that begins with simple boxes and progresses to more 
   complex objects such as vehicles, animals, and other everyday objects.
 
-  **[Ctrl+Paint](https://www.ctrlpaint.com/)** `video`  
+  **[Ctrl+Paint](https://www.ctrlpaint.com/)**  
   "A free learning resource dedicated to the basics of digital painting. Each 
   bite-sized video covers a different concept, allowing you to learn complex 
   subjects in manageable increments."
+  `video`
 
   Photography <photography>
   ------------------------------------------------------------------------------
@@ -120,8 +121,9 @@ Computers and Electronics <computers-electronics>
   construction of a modern, full-scale computer system - hardware and software -
    from the ground up."
 
-  **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)** `video`  
+  **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)**  
   Learn to build a programmable 8-bit computer from logic gates.
+  `video`
 
   Algorithms and Data Structures <algorithms-data-structures>
   ------------------------------------------------------------------------------
@@ -136,11 +138,13 @@ Computers and Electronics <computers-electronics>
   Dangerous](https://www.learnenough.com/command-line-tutorial)**  
   "An introduction to the command line for complete beginners."
 
-  **[OpenVim](http://www.openvim.com/)** `interactive`  
+  **[OpenVim](http://www.openvim.com/)**  
   An interactive Vim tutorial that covers basic modes and shortcuts.
+  `interactive`
 
-  **[RegexOne](https://regexone.com/)** `interactive`  
+  **[RegexOne](https://regexone.com/)**  
   An interactive introduction to Regular Expressions (RegEx).
+  `interactive`
 
   Unix and Linux <unix-linux>
   ------------------------------------------------------------------------------
