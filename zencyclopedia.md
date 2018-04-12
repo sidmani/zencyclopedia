@@ -131,6 +131,7 @@ Computers and Electronics <computers-electronics>
   "An open book about elementary algorithms and data structures. This book 
   doesn't only focus on an imperative (or procedural) approach, but also 
   includes purely functional algorithms and data structures."
+  `open-source`
 
   The Command Line <command-line>
   ------------------------------------------------------------------------------
@@ -140,7 +141,7 @@ Computers and Electronics <computers-electronics>
 
   **[OpenVim](http://www.openvim.com/)**  
   An interactive Vim tutorial that covers basic modes and shortcuts.
-  `interactive`
+  `interactive` `open-source`
 
   **[RegexOne](https://regexone.com/)**  
   An interactive introduction to Regular Expressions (RegEx).
@@ -151,14 +152,16 @@ Computers and Electronics <computers-electronics>
   **[Linux Journey](https://linuxjourney.com/)**  
   A guide to Linux, starting with terms and definitions and progressing through 
   various topics such as processes, the filesystem, and networking.
+  `open-source`
 
   **[Ten Steps to Linux 
   Survival](http://dullroar.com/book/TenStepsToLinuxSurvival.html)**  
   A guide to Bash in the context of Linux, covering the operation of the shell, 
   useful commands, and some history.
 
-  **[linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)**  
+  **[linux-insides](https://0xax.gitbooks.io/linux-insides/)**  
   A book about the workings of the Linux kernel.
+  `open-source`
 
   The Internet <internet>
   ------------------------------------------------------------------------------
@@ -168,9 +171,11 @@ Computers and Electronics <computers-electronics>
   source of normative text, but this document tries to make this venerable 
   protocol more accessible, while maintaining full alignment with all relevant 
   and useful RFCs."
+  `open-source`
 
   **[Learn CSS Layout](http://book.mixu.net/css/)**  
   "A set of chapters about CSS layout for people who already know CSS."
+  `open-source`
 
   Software Development <software-dev>
   ------------------------------------------------------------------------------
@@ -181,8 +186,9 @@ Computers and Electronics <computers-electronics>
 
   **[Git in the Trenches](http://cbx33.github.io/gitt/intro.html)**  
   "A book designed to help you both apply and understand the subtleties of Git."
+  `open-source`
 
-  **[Think Like (a) Git](http://think-like-a-git.net/changelog.html)**  
+  **[Think Like (a) Git](http://think-like-a-git.net/)**  
   "A simple strategy for safely experimenting with some of the features that 
   make Git so insanely, awesomely useful. You should know how to create a 
   repository, add and commit files to it, and you should probably have some idea
@@ -209,6 +215,7 @@ Computers and Electronics <computers-electronics>
 
   **[The Modern Javascript Tutorial](http://javascript.info/)**  
   A thorough guide to the Javascript language.
+  `open-source`
 
   **[Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**  
   "A growing collection of documentation about the most quirky parts of the 
@@ -216,6 +223,7 @@ Computers and Electronics <computers-electronics>
   subtle bugs, as well as performance issues and bad practices, that non-expert 
   JavaScript programmers may encounter on their endeavours into the depths of 
   the language."
+  `open-source`
 
   ---
 
@@ -241,6 +249,7 @@ Foreign Language <foreign-lang>
   "This book explains Japanese the way one may find it taught at universities,
   covering everything from basic to intermediary Japanese, and even touching on
   some of the more advanced constructions."
+  `open-source`
 
   **[Imabi](http://imabi.net)**  
   A set of in-depth Japanese lessons spanning introductory to advanced 
