@@ -34,7 +34,7 @@
     / /|  _| |  \| | |    \ V / |   | |  | | | | |_) |  _| | | | | |  / _ \
    / /_| |___| |\  | |___  | || |___| |__| |_| |  __/| |___| |_| | | / ___ \
   /____|_____|_| \_|\____| |_| \____|_____\___/|_|   |_____|____/___/_/   \_\
- /_______________________________Version 0.0.5_______________________________\
+ /_______________________________Version 0.0.6_______________________________\
 ```
 Introduction <introduction>
 ================================================================================
@@ -259,6 +259,7 @@ Foreign Language <foreign-lang>
   ------------------------------------------------------------------------------
   **[Talk To Me In Korean](http://http://talktomeinkorean.com/)**  
   Lessons, videos, and podcasts for learners of any level.
+  `video`
 
 Math <math>
 ================================================================================
@@ -268,15 +269,18 @@ Math <math>
   **[Pre-algebra (OpenStax)](https://openstax.org/details/books/prealgebra)**  
   "Introduces the fundamental concepts of algebra while addressing the needs of 
   students with diverse backgrounds and learning styles."
+  `textbook`
 
   **[Beginning and Intermediate 
   Algebra](http://www.wallace.ccfaculty.org/book/book.html)**  
   A standard introduction to algebra, beginning with a review of pre-algebra.
+  `textbook`
 
   **[College Algebra 
   (OpenStax)](https://openstax.org/details/books/college-algebra)**  
   "A comprehensive exploration of algebraic principles; meets scope and sequence
    requirements for a typical introductory algebra course."
+  `textbook`
 
   Geometry and Trigonometry <geo-trig>
   ------------------------------------------------------------------------------
@@ -296,6 +300,7 @@ Math <math>
   (OpenStax)](https://openstax.org/details/books/precalculus)**  
   "A comprehensive text that covers more ground than a typical one- or 
   two-semester college-level precalculus course."
+  `textbook`
 
 Physics <physics>
 ================================================================================
