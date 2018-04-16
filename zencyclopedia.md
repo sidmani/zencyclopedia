@@ -34,11 +34,7 @@
     / /|  _| |  \| | |    \ V / |   | |  | | | | |_) |  _| | | | | |  / _ \
    / /_| |___| |\  | |___  | || |___| |__| |_| |  __/| |___| |_| | | / ___ \
   /____|_____|_| \_|\____| |_| \____|_____\___/|_|   |_____|____/___/_/   \_\
-<<<<<<< HEAD
- /_______________________________Version 0.0.6_______________________________\
-=======
- /_______________________________Version 0.0.7_______________________________\
->>>>>>> edit
+ /___________________________________________________________________________\
 ```
 Introduction <introduction>
 ================================================================================
@@ -93,15 +89,9 @@ Art <art>
   complex objects such as vehicles, animals, and other everyday objects.
 
   **[Ctrl+Paint](https://www.ctrlpaint.com/)**  
-<<<<<<< HEAD
-  "A free learning resource dedicated to the basics of digital painting. Each 
-  bite-sized video covers a different concept, allowing you to learn complex 
-  subjects in manageable increments."
-=======
   "A free learning resource dedicated to the basics of digital painting. Each
   bite-sized video covers a different concept, allowing you to learn complex
   subjects in manageable increments."  
->>>>>>> edit
   `video`
 
   Photography <photography>
@@ -132,25 +122,10 @@ Computers and Electronics <computers-electronics>
    from the ground up."
 
   **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)**  
-<<<<<<< HEAD
-  Learn to build a programmable 8-bit computer from logic gates.
-  `video`
-
-  Algorithms and Data Structures <algorithms-data-structures>
-  ------------------------------------------------------------------------------
-  **[AlgoXY](https://github.com/liuxinyu95/AlgoXY)**  
-  "An open book about elementary algorithms and data structures. This book 
-  doesn't only focus on an imperative (or procedural) approach, but also 
-  includes purely functional algorithms and data structures."
-  `open-source`
-
-  The Command Line <command-line>
-=======
   Learn to build a programmable 8-bit computer from logic gates.  
   `video`
 
   Algorithms and Data Structures <algorithms-data-structures>
->>>>>>> edit
   ------------------------------------------------------------------------------
   **[AlgoXY](https://github.com/liuxinyu95/AlgoXY)**  
   "An open book about elementary algorithms and data structures. This book
@@ -165,31 +140,18 @@ Computers and Electronics <computers-electronics>
   "An introduction to the command line for complete beginners."  
 
   **[OpenVim](http://www.openvim.com/)**  
-<<<<<<< HEAD
-  An interactive Vim tutorial that covers basic modes and shortcuts.
-  `interactive` `open-source`
-
-  **[RegexOne](https://regexone.com/)**  
-  An interactive introduction to Regular Expressions (RegEx).
-=======
   An interactive Vim tutorial that covers basic modes and shortcuts.  
   `interactive` `open-source`
 
   **[RegexOne](https://regexone.com/)**  
   An interactive introduction to Regular Expressions (RegEx).  
->>>>>>> edit
   `interactive`
 
   Unix and Linux <unix-linux>
   ------------------------------------------------------------------------------
   **[Linux Journey](https://linuxjourney.com/)**  
-<<<<<<< HEAD
-  A guide to Linux, starting with terms and definitions and progressing through 
-  various topics such as processes, the filesystem, and networking.
-=======
   A guide to Linux, starting with terms and definitions and progressing through
   various topics such as processes, the filesystem, and networking.  
->>>>>>> edit
   `open-source`
 
   **[Ten Steps to Linux
@@ -198,27 +160,12 @@ Computers and Electronics <computers-electronics>
   useful commands, and some history.
 
   **[linux-insides](https://0xax.gitbooks.io/linux-insides/)**  
-<<<<<<< HEAD
-  A book about the workings of the Linux kernel.
-=======
   A book about the workings of the Linux kernel.  
->>>>>>> edit
   `open-source`
 
   The Internet <internet>
   ------------------------------------------------------------------------------
   **[Hello DNS](https://powerdns.org/hello-dns/)**  
-<<<<<<< HEAD
-  "This series of documents attempts to provide a correct introduction to the 
-  Domain Name System as of 2018. The original RFCs remain the authoritative 
-  source of normative text, but this document tries to make this venerable 
-  protocol more accessible, while maintaining full alignment with all relevant 
-  and useful RFCs."
-  `open-source`
-
-  **[Learn CSS Layout](http://book.mixu.net/css/)**  
-  "A set of chapters about CSS layout for people who already know CSS."
-=======
   "This series of documents attempts to provide a correct introduction to the
   Domain Name System as of 2018. The original RFCs remain the authoritative
   source of normative text, but this document tries to make this venerable
@@ -228,7 +175,6 @@ Computers and Electronics <computers-electronics>
 
   **[Learn CSS Layout](http://book.mixu.net/css/)**  
   "A set of chapters about CSS layout for people who already know CSS."  
->>>>>>> edit
   `open-source`
 
   Software Development <software-dev>
@@ -239,14 +185,6 @@ Computers and Electronics <computers-electronics>
   control.  
 
   **[Git in the Trenches](http://cbx33.github.io/gitt/intro.html)**  
-<<<<<<< HEAD
-  "A book designed to help you both apply and understand the subtleties of Git."
-  `open-source`
-
-  **[Think Like (a) Git](http://think-like-a-git.net/)**  
-  "A simple strategy for safely experimenting with some of the features that 
-  make Git so insanely, awesomely useful. You should know how to create a 
-=======
   "A book designed to help you both apply and understand the subtleties of
   Git."  
   `open-source`
@@ -254,7 +192,6 @@ Computers and Electronics <computers-electronics>
   **[Think Like (a) Git](http://think-like-a-git.net/)**  
   "A simple strategy for safely experimenting with some of the features that
   make Git so insanely, awesomely useful. You should know how to create a
->>>>>>> edit
   repository, add and commit files to it, and you should probably have some idea
   of why you might want to use a branch."  
 
@@ -278,17 +215,6 @@ Computers and Electronics <computers-electronics>
   Javascript.  
 
   **[The Modern Javascript Tutorial](http://javascript.info/)**  
-<<<<<<< HEAD
-  A thorough guide to the Javascript language.
-  `open-source`
-
-  **[Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)**  
-  "A growing collection of documentation about the most quirky parts of the 
-  JavaScript programming language. It gives advice to avoid common mistakes and 
-  subtle bugs, as well as performance issues and bad practices, that non-expert 
-  JavaScript programmers may encounter on their endeavours into the depths of 
-  the language."
-=======
   A thorough guide to the Javascript language.  
   `open-source`
 
@@ -298,7 +224,6 @@ Computers and Electronics <computers-electronics>
   subtle bugs, as well as performance issues and bad practices, that non-expert
   JavaScript programmers may encounter on their endeavours into the depths of
   the language."  
->>>>>>> edit
   `open-source`
 
   ---
@@ -324,11 +249,7 @@ Foreign Language <foreign-lang>
   Language](https://pomax.github.io/nrGrammar/)**  
   "This book explains Japanese the way one may find it taught at universities,
   covering everything from basic to intermediary Japanese, and even touching on
-<<<<<<< HEAD
-  some of the more advanced constructions."
-=======
   some of the more advanced constructions."  
->>>>>>> edit
   `open-source`
 
   **[Imabi](http://imabi.net)**  
@@ -338,11 +259,7 @@ Foreign Language <foreign-lang>
   Korean <korean>
   ------------------------------------------------------------------------------
   **[Talk To Me In Korean](http://http://talktomeinkorean.com/)**  
-<<<<<<< HEAD
-  Lessons, videos, and podcasts for learners of any level.
-=======
   Lessons, videos, and podcasts for learners of any level.  
->>>>>>> edit
   `video`
 
 Math <math>
@@ -351,21 +268,6 @@ Math <math>
   Algebra <algebra>
   ------------------------------------------------------------------------------
   **[Pre-algebra (OpenStax)](https://openstax.org/details/books/prealgebra)**  
-<<<<<<< HEAD
-  "Introduces the fundamental concepts of algebra while addressing the needs of 
-  students with diverse backgrounds and learning styles."
-  `textbook`
-
-  **[Beginning and Intermediate 
-  Algebra](http://www.wallace.ccfaculty.org/book/book.html)**  
-  A standard introduction to algebra, beginning with a review of pre-algebra.
-  `textbook`
-
-  **[College Algebra 
-  (OpenStax)](https://openstax.org/details/books/college-algebra)**  
-  "A comprehensive exploration of algebraic principles; meets scope and sequence
-   requirements for a typical introductory algebra course."
-=======
   "Introduces the fundamental concepts of algebra while addressing the needs of
   students with diverse backgrounds and learning styles."  
   `textbook`
@@ -379,29 +281,11 @@ Math <math>
   (OpenStax)](https://openstax.org/details/books/college-algebra)**  
   "A comprehensive exploration of algebraic principles; meets scope and sequence
    requirements for a typical introductory algebra course."  
->>>>>>> edit
   `textbook`
 
   Geometry and Trigonometry <geo-trig>
   ------------------------------------------------------------------------------
   **[Dave's Short Trig Course](http://www2.clarku.edu/~djoyce/trig/)**  
-<<<<<<< HEAD
-  An introduction to trigonometry that assumes knowledge of algebra and 
-  geometry.
-
-  **[Trigonometry](http://www.mecmath.net/trig/index.html)**  
-  "A text on elementary trigonometry, designed for students who have completed 
-  courses in high-school algebra and geometry."
-
-  **[Euclid's Elements Redux](http://starrhorse.com/euclid/)**  
-  "An open textbook on mathematical logic and geometry based on Euclid's 
-  'Elements'."
-
-  **[Pre-calculus 
-  (OpenStax)](https://openstax.org/details/books/precalculus)**  
-  "A comprehensive text that covers more ground than a typical one- or 
-  two-semester college-level precalculus course."
-=======
   An introduction to trigonometry that assumes knowledge of algebra and
   geometry.
 
@@ -455,7 +339,6 @@ Math <math>
   **[Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/)**  
   "Learn and apply the methods of thought that mathematicians use to verify
   theorems, explore mathematical truth and create new mathematical theories."  
->>>>>>> edit
   `textbook`
 
 Physics <physics>
@@ -465,13 +348,5 @@ Physics <physics>
   ------------------------------------------------------------------------------
   **[How to become a GOOD Theoretical
   Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)**  
-<<<<<<< HEAD
-  A guide to learning physics from the ground up by Nobel laureate Gerard 't 
-  Hooft.
-
-
-
-=======
   A guide to learning physics from the ground up by Nobel laureate Gerard 't
   Hooft.
->>>>>>> edit
