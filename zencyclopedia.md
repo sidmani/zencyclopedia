@@ -165,12 +165,22 @@ Computers and Electronics <computers-electronics>
 
   The Internet <internet>
   ------------------------------------------------------------------------------
+  **[20 Things I Learned About Browsers and the
+  Web](http://www.20thingsilearned.com/)**  
+  "A short guide for anyone who’s curious about the basics of browsers and the
+  web."
+
   **[Hello DNS](https://powerdns.org/hello-dns/)**  
   "This series of documents attempts to provide a correct introduction to the
   Domain Name System as of 2018. The original RFCs remain the authoritative
   source of normative text, but this document tries to make this venerable
   protocol more accessible, while maintaining full alignment with all relevant
   and useful RFCs."  
+  `open-source`
+
+  **[Dive Into HTML5](http://diveinto.html5doctor.com)**  
+  "Seeks to elaborate on a hand-picked Selection of features from the HTML5
+  specification and other fine Standards."
   `open-source`
 
   **[Learn CSS Layout](http://book.mixu.net/css/)**  
@@ -294,20 +304,49 @@ Math <math>
   courses in high-school algebra and geometry."  
   `textbook`
 
-  **[Euclid's Elements Redux](http://starrhorse.com/euclid/)**  
-  "An open textbook on mathematical logic and geometry based on Euclid's
-  'Elements'."
-
   **[Pre-calculus
   (OpenStax)](https://openstax.org/details/books/precalculus)**  
   "A comprehensive text that covers more ground than a typical one- or
   two-semester college-level precalculus course."  
   `textbook`
 
+  **[Euclid's Elements Redux](http://starrhorse.com/euclid/)**  
+  "An open textbook on mathematical logic and geometry based on Euclid's
+  'Elements'."
+  `textbook`
+
+  **[Euclidean plane and its
+  relatives](http://anton-petrunin.github.io/birkhoff/)**  
+  "Designed for a semester-long course in Foundations of Geometry and meant to
+  be rigorous, conservative, elementary and minimalist."  
+  `open-source` `textbook`
+
   Calculus <calculus>
   ------------------------------------------------------------------------------
+  **[mooculus](https://mooculus.osu.edu/handouts)**  
+  "A first and friendly introduction to calculus, suitable for someone who has
+  never seen the subject before, or for someone who has seen some calculus but
+  wants to review the concepts and practice applying those concepts to solve
+  problems. "
+  `textbook`
+
   **[Fundamentals of Calculus](http://www.lightandmatter.com/fund/)**  
   "Covers the first semester of a freshman calculus course."  
+  `open-source` `textbook`
+
+  **[Yet Another Calculus Textbook](http://yact.synechism.org)**  
+  "An introduction to calculus based on the hyperreal number system. Although
+  the book does not explicitly assume any prerequisites beyond basic algebra
+  and trigonometry, in practice the pace is too fast for most of those without
+  some acquaintance with the basic notions of calculus."  
+  `textbook`
+
+  Differential Equations <diff-eq>
+  ------------------------------------------------------------------------------
+  **[Diffy Qs: Differential Equations for
+  Engineers](http://www.jirka.org/diffyqs/)**  
+  "A one-semester first course on differential equations, aimed at engineering
+  students. Prerequisite for the course is the basic calculus sequence."  
   `open-source` `textbook`
 
   Linear Algebra <linear-algebra>
