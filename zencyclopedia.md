@@ -304,12 +304,6 @@ Math <math>
   courses in high-school algebra and geometry."  
   `textbook`
 
-  **[Pre-calculus
-  (OpenStax)](https://openstax.org/details/books/precalculus)**  
-  "A comprehensive text that covers more ground than a typical one- or
-  two-semester college-level precalculus course."  
-  `textbook`
-
   **[Euclid's Elements Redux](http://starrhorse.com/euclid/)**  
   "An open textbook on mathematical logic and geometry based on Euclid's
   'Elements'."
@@ -323,6 +317,11 @@ Math <math>
 
   Calculus <calculus>
   ------------------------------------------------------------------------------
+  **[Precalculus](http://www.stitz-zeager.com/szprecalculus07042013.pdf)**  
+  "Presented at a level that definitely prepares a student for Calculus while
+  giving them relevant Mathematics which can be used in other classes as well."
+  `open-source` `textbook`
+
   **[mooculus](https://mooculus.osu.edu/handouts)**  
   "A first and friendly introduction to calculus, suitable for someone who has
   never seen the subject before, or for someone who has seen some calculus but
