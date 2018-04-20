@@ -116,14 +116,14 @@ Computers and Electronics <computers-electronics>
 
   Computer Hardware <computer-hardware>
   ------------------------------------------------------------------------------
+  **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)**  
+  Learn to build a programmable 8-bit computer from logic gates.  
+  `video`
+
   **[Nand2Tetris](http://www.nand2tetris.org/)**  
   "A course and a textbook that guides students and self-learners through the
   construction of a modern, full-scale computer system - hardware and software -
    from the ground up."
-
-  **[Build an 8-bit Computer from Scratch](https://eater.net/8bit/)**  
-  Learn to build a programmable 8-bit computer from logic gates.  
-  `video`
 
   Algorithms and Data Structures <algorithms-data-structures>
   ------------------------------------------------------------------------------
@@ -131,6 +131,27 @@ Computers and Electronics <computers-electronics>
   "An open book about elementary algorithms and data structures. This book
   doesn't only focus on an imperative (or procedural) approach, but also
   includes purely functional algorithms and data structures."  
+  `open-source`
+
+  Operating Systems <os>
+  ------------------------------------------------------------------------------
+  **[Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)**  
+  "Helps you gain the foundational knowledge required to write an operating
+  system from scratch."
+  `open-source`
+
+  **[Linux Journey](https://linuxjourney.com/)**  
+  A guide to Linux, starting with terms and definitions and progressing through
+  various topics such as processes, the filesystem, and networking.  
+  `open-source`
+
+  **[Ten Steps to Linux
+  Survival](http://dullroar.com/book/TenStepsToLinuxSurvival.html)**  
+  A guide to Bash in the context of Linux, covering the operation of the shell,
+  useful commands, and some history.
+
+  **[linux-insides](https://0xax.gitbooks.io/linux-insides/)**  
+  A book about the workings of the Linux kernel.  
   `open-source`
 
   The Command Line <command-line>
@@ -146,22 +167,6 @@ Computers and Electronics <computers-electronics>
   **[RegexOne](https://regexone.com/)**  
   An interactive introduction to Regular Expressions (RegEx).  
   `interactive`
-
-  Unix and Linux <unix-linux>
-  ------------------------------------------------------------------------------
-  **[Linux Journey](https://linuxjourney.com/)**  
-  A guide to Linux, starting with terms and definitions and progressing through
-  various topics such as processes, the filesystem, and networking.  
-  `open-source`
-
-  **[Ten Steps to Linux
-  Survival](http://dullroar.com/book/TenStepsToLinuxSurvival.html)**  
-  A guide to Bash in the context of Linux, covering the operation of the shell,
-  useful commands, and some history.
-
-  **[linux-insides](https://0xax.gitbooks.io/linux-insides/)**  
-  A book about the workings of the Linux kernel.  
-  `open-source`
 
   The Internet <internet>
   ------------------------------------------------------------------------------
@@ -242,6 +247,12 @@ Computers and Electronics <computers-electronics>
   Python](http://automatetheboringstuff.com/)**  
   "Learn how to use Python to write programs that do in minutes what would take
   you hours to do by hand - no prior programming experience required."
+
+  ---
+
+  **[The Swift Programming
+  Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)**  
+  The official guide to Swift, maintained by Apple.
 
 Foreign Language <foreign-lang>
 ================================================================================
