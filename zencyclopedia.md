@@ -212,6 +212,11 @@ Computers and Electronics <computers-electronics>
 
   Programming Languages <programming-lang>
   ------------------------------------------------------------------------------
+  **[Crafting Interpreters](http://craftinginterpreters.com)**  
+  "This book contains everything you need to implement a full-featured,
+  efficient scripting language."
+
+  ---
   **[Learn You Some Erlang](http://learnyousomeerlang.com/)**  
   "A way to learn Erlang for people who have basic knowledge of programming in
   imperative languages (such as C/C++, Java, Python, Ruby, etc) and may or may
@@ -390,12 +395,27 @@ Math <math>
   theorems, explore mathematical truth and create new mathematical theories."  
   `textbook`
 
+  Advanced Stuff <advanced-stuff>
+  ------------------------------------------------------------------------------
+  **[An Infinitely Large Napkin](http://web.evanchen.cc/napkin.html)**  
+  A broad survey of higher mathematics.
+  `textbook`
+
 Physics <physics>
 ================================================================================
+  **[The Feynman Lectures](http://www.feynmanlectures.caltech.edu)**  
+  "A high quality up-to-date copy of Feynman's legendary lectures."
 
-  Overview <physics-overview>
-  ------------------------------------------------------------------------------
   **[How to become a GOOD Theoretical
   Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)**  
   A guide to learning physics from the ground up by Nobel laureate Gerard 't
   Hooft.
+
+  Relativity
+  ------------------------------------------------------------------------------
+  **[Special Relativity](http://www.lightandmatter.com/sr/)**  
+  "A textbook on special relativity, aimed at undergraduates who have already
+  completed a freshman survey course. The treatment of electromagnetism assumes
+  previous exposure to Maxwell's equations in integral form, but no knowledge
+  of vector calculus."
+  `open-source` `textbook`
