@@ -421,3 +421,9 @@ Physics <physics>
   previous exposure to Maxwell's equations in integral form, but no knowledge
   of vector calculus."
   `open-source` `textbook`
+
+  **[General Relativity](http://www.lightandmatter.com/genrel/)**  
+  "A textbook on general relativity for upper-division undergraduates majoring
+  in physics. Meant to be especially well adapted for self-study, and answers
+  are given in the back of the book for almost all the problems."
+  `open-source` `textbook`
