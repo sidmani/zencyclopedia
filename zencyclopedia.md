@@ -217,6 +217,15 @@ Computers and Electronics <computers-electronics>
   efficient scripting language."
 
   ---
+
+  **[The C Book](http://publications.gbdirect.co.uk/c_book/)**  
+  "Designed for programmers who already have some experience of using a modern
+  high-level procedural programming language. The book will assume that its
+  readers have already done battle with the notions of statements, variables,
+  conditional execution, arrays, procedures (or subroutines) and so on."
+
+  ---
+
   **[Learn You Some Erlang](http://learnyousomeerlang.com/)**  
   "A way to learn Erlang for people who have basic knowledge of programming in
   imperative languages (such as C/C++, Java, Python, Ruby, etc) and may or may
@@ -252,6 +261,20 @@ Computers and Electronics <computers-electronics>
   Python](http://automatetheboringstuff.com/)**  
   "Learn how to use Python to write programs that do in minutes what would take
   you hours to do by hand - no prior programming experience required."
+
+  ---
+
+  **[R for Data Science](http://r4ds.had.co.nz)**  
+  "This book will teach you how to do data science with R: You’ll learn how to
+  get your data into R, get it into the most useful structure, transform it,
+  visualise it and model it."
+
+  ---
+
+  **[SQLBolt](https://sqlbolt.com)**  
+  "A series of interactive lessons and exercises designed to help you quickly
+  learn SQL right in your browser."
+  `interactive`
 
   ---
 
