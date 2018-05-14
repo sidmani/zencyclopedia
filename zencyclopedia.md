@@ -294,7 +294,7 @@ Computers and Electronics <computers-electronics>
   "Comes with everything you need to understand complete systems such as
   SSL/TLS: block ciphers, stream ciphers, hash functions, message authentication
   codes, public key encryption, key agreement protocols, and signature
-  algorithms.
+  algorithms."
   `open-source`
 
   **[Deep Learning](http://www.deeplearningbook.org)**  
