@@ -224,6 +224,12 @@ Computers and Electronics <computers-electronics>
   readers have already done battle with the notions of statements, variables,
   conditional execution, arrays, procedures (or subroutines) and so on."
 
+  **[wizard code](http://vendu.twodots.nl/wizardcode.html)**  
+  "Discusses the C language in depth from a low-level programmer's perspective.
+  You will get familiar with how Unix-like systems execute code, how C code is
+  translated to assembly (and later, trivially, to machine language), and such
+  advanced topics."
+
   ---
 
   **[Learn You Some Erlang](http://learnyousomeerlang.com/)**  
@@ -281,6 +287,19 @@ Computers and Electronics <computers-electronics>
   **[The Swift Programming
   Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)**  
   The official guide to Swift, maintained by Apple.
+
+  Advanced Topics <cs-adv-top>
+  ------------------------------------------------------------------------------
+  **[Crypto101](https://www.crypto101.io)**  
+  "Comes with everything you need to understand complete systems such as
+  SSL/TLS: block ciphers, stream ciphers, hash functions, message authentication
+  codes, public key encryption, key agreement protocols, and signature
+  algorithms."
+  `open-source`
+
+  **[Deep Learning](http://www.deeplearningbook.org)**  
+  "A resource intended to help students and practitioners enter the field of
+  machine learning in general and deep learning in particular."
 
 Foreign Language <foreign-lang>
 ================================================================================
