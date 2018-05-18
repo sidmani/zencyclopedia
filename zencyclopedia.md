@@ -164,6 +164,9 @@ Computers and Electronics <computers-electronics>
   An interactive Vim tutorial that covers basic modes and shortcuts.  
   `interactive` `open-source`
 
+  **[Vim User Manual](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)**  
+  A Vim tutorial that covers installation and basics through advanced usage.
+
   **[RegexOne](https://regexone.com/)**  
   An interactive introduction to Regular Expressions (RegEx).  
   `interactive`
@@ -454,6 +457,13 @@ Physics <physics>
   Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)**  
   A guide to learning physics from the ground up by Nobel laureate Gerard 't
   Hooft.
+
+  Classical Mechanics
+  ------------------------------------------------------------------------------
+  **[Mechanics](http://www.lightandmatter.com/mechanics/)**  
+  "A calculus-based book meant for the first semester of the type of freshman
+  survey course taken by engineering and physical science majors."
+  `open-source` `textbook`
 
   Relativity
   ------------------------------------------------------------------------------
