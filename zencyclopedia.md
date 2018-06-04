@@ -199,9 +199,8 @@ Computers and Electronics <computers-electronics>
   ------------------------------------------------------------------------------
   **[Learn programming - from basics of programming languages to the most advanced topics and libraries](https://www.ict.social/)**
   Website with plenty of tutorials for people who want to learn programming from scratch. Most articles are for free, you can unlock advanced content (like eshop tutorial) by publising articles, answering questions on forum, participating in programming competitions, or paying 1$/article. You can learn programming with the free tutorials. By the time you get to advanced content you'll know programming well enough to just search it elsewhere for free.
-  
-  **[Learn Enough Git to be
-  Dangerous](https://www.learnenough.com/git-tutorial)**  
+
+  **[Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial)**  
   A Git tutorial for those who are complete beginners to the concept of version
   control.  
 
