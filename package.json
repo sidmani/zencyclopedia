@@ -1,0 +1,24 @@
+{
+  "name": "zencyclopedia",
+  "version": "1.0.0",
+  "description": "learn anything online",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/anodize run",
+    "ws": "./node_modules/.bin/anodize watch --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidmani/zencyclopedia.git"
+  },
+  "author": "Sid Mani",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/sidmani/zencyclopedia/issues"
+  },
+  "homepage": "https://github.com/sidmani/zencyclopedia#readme",
+  "devDependencies": {
+    "anodize": "^0.8.1"
+  }
+}

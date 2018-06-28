@@ -1,0 +1,8 @@
+<div class="toc">
+<h1>Contents</h1>
+<a class="toc-1" href="/">Home</a><br>
+{% for cat in site %}{% unless cat.index %}{% continue %}{% endunless %}
+<a class="toc-1" href="{{ cat.index.path }}">{{ cat.index.title }}</a><br>{% if cat.index.dirname == object.dirname %}{% for subcat in cat %}
+&nbsp;&nbsp;<a class="toc-2" href="#{{ subcat.index.dirname }}">{{ subcat.index.title }}</a><br>
+{% endfor %}{% endif %}{% endfor %}
+</div>
