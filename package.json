@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/sidmani/zencyclopedia#readme",
   "devDependencies": {
-    "anodize": "^0.8.1"
+    "anodize": "^1.1.4"
   }
 }

@@ -2,11 +2,12 @@
 {% include 'menu.liquid' %}
 {% if current.index.dirname != '_root' %}
 <h1>{{ object.title }}</h1>
-{% for cat in current %}<h2 id="{{ cat.index.dirname }}">{{ cat.index.title }}</h2>
+{% for cat in current %}<div class="category">
+<h2 id="{{ cat.index.dirname }}">{{ cat.index.title }}</h2>
 {% for resource in cat %}
-<div class="element">
+<div class="element{% for t in resource.tags %} {{ t }}{% endfor %}">
 <a href="{{ resource.url }}"><strong>{{ resource.title }}</strong></a>
 {% for t in resource.tags %}&nbsp;<a onclick="filter('{{ t }}')" class="tag {{ t }}">{{ t }}</a>&nbsp;{% endfor %}
 <br>{{ resource.body }}
-</div>{% endfor %}{% endfor %}{% else %}{{ object.body }}{% endif %}
+</div>{% endfor %}</div>{% endfor %}{% else %}{{ object.body }}{% endif %}
 <footer>This page was last generated at unix+{{ env.now }} ({{ env.now | dateFormat: "YYYY-M-D H:m:S" }} PT) from <a href="https://github.com/sidmani/zencyclopedia">markdown</a> by <a href="https://github.com/sidmani/anodize">Anodize</a> on a server running Ubuntu 16.04 in San Francisco. This site is maintained by <a href="https://sidmani.com">a 19-year-old</a> with too much free time.</footer>

@@ -22,27 +22,11 @@ function updateVisibility() {
     objs[i].style.display = shouldShow ? 'block' : 'none';
   }
 
-  var subs = document.getElementsByClassName('sub');
-  for (var i = 0; i < subs.length; i++) {
-    var visible = subs[i].getElementsByClassName(keys.join(' ')).length !== 0 || keys.length === 0;
-    subs[i].style.display = visible ? 'block' : 'none';
-  }
-
   var cats = document.getElementsByClassName('category');
   for (var i = 0; i < cats.length; i++) {
     var visible = cats[i].getElementsByClassName(keys.join(' ')).length !== 0 || keys.length === 0;
     cats[i].style.display = visible ? 'block' : 'none';
   }
-
-  // if (keys.length !== 0) {
-  //   document.getElementsByClassName('logo')[0].style.display = 'none';
-  // } else {
-  //   document.getElementById('introduction').style.display = 'block';
-  //   document.getElementById('contributing').style.display = 'block';
-  //   document.getElementById('license').style.display = 'block';
-  //
-  //   document.getElementsByClassName('logo')[0].style.display = 'block';
-  // }
 }
 
 function filter(tag) {
