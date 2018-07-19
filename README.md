@@ -10,7 +10,7 @@ Please note that this repository is _not_ the source for the website. If there's
 
 # Contributing
 
-Contributions are handled via pull requests against the `edit` branch. Please follow these guidelines:  
+Contributions are handled via pull requests. Please follow these guidelines:  
 
 * Maintain a neutral and encyclopedic tone.  
 * Do not link to content that violates United States law.  
@@ -35,9 +35,7 @@ Description...
 ```
 If you want to create a new category or reorganize an existing category, [open an issue](https://github.com/sidmani/zencyclopedia/issues) first.
 
-Please note that all resources will be reviewed for quality.
-
-Once again, make sure your pull requests are against the `edit` branch, not `master`. Thank you and happy contributing!  
+Please note that all resources will be reviewed for quality. Thank you and happy contributing!  
 
 # License
 The Zencyclopedia is released under the terms of the
