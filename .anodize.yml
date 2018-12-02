@@ -20,5 +20,3 @@ head:
     - '<script src="/main.js"></script>'
     - '<meta name="msapplication-TileColor" content="#2b5797">'
     - '<meta name="theme-color" content="#ffffff">'
-    - '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112062318-2"></script>'
-    - '<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag(''js'', new Date());gtag(''config'', ''UA-112062318-2'');</script>'
