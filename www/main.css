@@ -1,0 +1,137 @@
+body {
+  font-family: Palatino,Georgia,'Times New Roman',serif;
+  line-height: 1.6;
+  margin: auto;
+  padding: 20px 0 20px 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  max-width: 80ch;
+}
+
+pre {
+  font-family: Menlo,Consolas,monospace;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+@media screen and (max-width: 80ch) {
+  .logo {
+    font-size: 1.95vw;
+  }
+}
+
+.github-corner {
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+a {
+  color: #FF2E88;
+  font-family: Georgia,Palatino,'Times New Roman';
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: 1px solid #FF2E88;
+}
+
+a:hover {
+  background-color: #FF2E88;
+  color: #FFFFFF;
+}
+
+a.toc-1 {
+  font-weight: bold;
+  border-bottom: none;
+}
+
+a.toc-2 {
+  border-bottom: none;
+}
+
+@media screen and (min-width: 78em) {
+  /* put table of contents on the left side */
+  .toc {
+    max-width: 20em;
+    left: 4em;
+    position: fixed;
+    top: 0;
+    overflow-y:scroll;
+  }
+}
+
+/* headers */
+h1, h2 {
+  font-family: Verdana,Helvetica,Arial,sans-serif;
+}
+
+h1 {
+  padding-top: 15px;
+  padding-bottom: 3px;
+  border-bottom: 3px solid;
+  font-size: 20px;
+}
+
+h2 {
+  color: #555;
+  font-size: 18px;
+}
+
+.element {
+  margin-bottom: 10px;
+}
+
+footer {
+  color: #999999;
+  font-style: italic;
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+.tag {
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: dashed;
+  padding: 2px 3px 2px 3px;
+  font-family: monospace;
+}
+
+.tag.video {
+  border-color: #00bcd4;
+  color: #00bcd4;
+}
+
+.tag.video:hover, .tag.video.select {
+  background-color: #00bcd4;
+}
+
+.tag.interactive {
+  border-color: #4caf50;
+  color: #4caf50;
+}
+
+.tag.interactive:hover, .tag.interactive.select {
+  background-color: #4caf50;
+}
+
+.tag.open-source {
+  border-color: #757575;
+  color: #757575;
+}
+
+.tag.open-source:hover, .tag.open-source.select {
+  background-color: #757575;
+}
+
+.tag.textbook {
+  border-color: #ff9800;
+  color: #ff9800;
+}
+
+.tag.textbook:hover, .tag.textbook.select {
+  background-color: #ff9800;
+}
+
+.tag:hover, .tag.select {
+  color: #FFFFFF;
+}
