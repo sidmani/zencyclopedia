@@ -4,8 +4,8 @@ source: src
 template: template
 ignore:
   - '**/.*'
+icon: icon.png
 head:
-  charset: 'utf-8'
   title: 'The Zencyclopedia - Learn Anything Online'
   keywords: ['zencyclopedia', 'learn', 'online', 'free', 'open', 'source']
   css:
