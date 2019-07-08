@@ -1,5 +1,5 @@
 # .anodize.yml
-target: docs
+target: www
 source: src
 template: template
 ignore:
