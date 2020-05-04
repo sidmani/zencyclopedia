@@ -1,0 +1,21 @@
+{
+  "name": "zencyclopedia",
+  "version": "1.0.0",
+  "description": "This is the main repository for the **Zencyclopedia**, a compilation of learning resources for just about everything. Check out the live version at https://www.zencyclopedia.org.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidmani/zencyclopedia.git"
+  },
+  "author": "Sid Mani",
+  "bugs": {
+    "url": "https://github.com/sidmani/zencyclopedia/issues"
+  },
+  "homepage": "https://github.com/sidmani/zencyclopedia#readme",
+  "devDependencies": {
+    "anodize": "^1.5.0"
+  }
+}
