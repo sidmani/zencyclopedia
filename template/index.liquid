@@ -10,4 +10,4 @@
 {% for t in resource.tags %}&nbsp;<a onclick="filter('{{ t }}')" class="tag {{ t }}">{{ t }}</a>&nbsp;{% endfor %}
 <br>{{ resource.body }}{% if resource.hr %}<hr>{% endif %}
 </div>{% endfor %}</div>{% endfor %}{% else %}{{ object.body }}{% endif %}
-<footer>This page was last generated at unix+{{ env.now }} ({{ env.now | dateFormat: "YYYY-M-D H:mm:SS" }} PT) from <a href="https://github.com/sidmani/zencyclopedia">markdown</a> by <a href="https://github.com/sidmani/anodize">Anodize</a> on a server running Ubuntu 16.04 in San Francisco. This site is maintained by <a href="https://sidmani.com">a 20-year-old</a> with too much free time.</footer>
+<footer>This page was last generated at unix+{{ env.now }} ({{ env.now | dateFormat: "YYYY-M-D H:mm:SS" }} PT) from <a href="https://github.com/sidmani/zencyclopedia">markdown</a> by <a href="https://github.com/sidmani/anodize">Anodize</a> on a server running Ubuntu 16.04 in San Francisco. This site is maintained by <a href="https://sidmani.com">a 21-year-old</a> with too much free time.</footer>
